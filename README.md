@@ -1,5 +1,5 @@
 # Url-Shorten-Worker
-A URL Shortener created using Cloudflare Worker
+A URL Shortener based on Cloudflare Worker
 
 https://shorturl.ga
 
