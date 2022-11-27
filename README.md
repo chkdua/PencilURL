@@ -1,6 +1,8 @@
 # Url-Shorten-Worker
 A URL Shortener created using Cloudflare Worker
 
+https://shorturl.ga
+
 # API
 
 [API Documentation (API文档)](API.md)
