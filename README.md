@@ -2,8 +2,6 @@
 A URL Shortener based on Cloudflare Worker
 
 - https://shrinkurl.ml
-- (Backup)https://stlink.cf
-- (Backup)https://stlink.gq
 
 # API
 
@@ -38,7 +36,5 @@ Click Save and Deploy
 
 # Demo
 - https://shrinkurl.ml
-- https://stlink.cf
-- https://stlink.gq
 
 (shorturl.ga is not affiliated with this project.)
