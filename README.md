@@ -2,8 +2,8 @@
 A URL Shortener based on Cloudflare Worker
 
 - https://shrinkurl.ml
-- https://stlink.cf
-- https://stlink.gq
+- (Backup)https://stlink.cf
+- (Backup)https://stlink.gq
 
 # API
 
