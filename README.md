@@ -1,7 +1,9 @@
 # Url-Shorten-Worker
 A URL Shortener based on Cloudflare Worker
 
-https://shorturl.ga
+https://shrinkurl.ml
+https://stlink.cf
+https://stlink.gq
 
 # API
 
@@ -35,4 +37,8 @@ Copy the `index.js` code from this project to Cloudflare Worker.
 Click Save and Deploy
 
 # Demo
-https://shorturl.ga
+https://shrinkurl.ml
+https://stlink.cf
+https://stlink.gq
+
+(shorturl.ga is not affiliated with this project.)
