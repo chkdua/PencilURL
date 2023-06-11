@@ -6,7 +6,7 @@
 
 ### 接口调用地址
 
-自行部署的CloudFlare Worker地址，例如：https://url.dem0.workers.dev 或是自行绑定的域名
+自行部署的CloudFlare Worker地址，例如：https://shrinkurl.ml 或是自行绑定的域名
 
 ### 调用方式：HTTP POST 请求格式: JSON
 示例：
@@ -37,4 +37,4 @@
 |status|int|	状态码：200为调用成功|200|	
 |key|string|	短链接后缀：需要自行添加域名前缀|/xxxxxx|
 
-注：接口只会返回短链接对应的key值，实际使用中需要添加对应的域名前缀，如：示例中返回的key参数是 "/demo" ，则我们需要添加 "https://url.dem0.workers.dev" 作为前缀，将其补全成完整的url即可使用，即：https://url.dem0.workers.dev/demo
+注：接口只会返回短链接对应的key值，实际使用中需要添加对应的域名前缀，如：示例中返回的key参数是 "/demo" ，则我们需要添加 "https://url.dem0.workers.dev" 作为前缀，将其补全成完整的url即可使用，即：https://shrinkurl.ml/demo
