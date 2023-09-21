@@ -1,7 +1,7 @@
 # Url-Shorten-Worker
 A URL Shortener based on Cloudflare Worker
 
-- https://shrinkurl.ml
+- https://stlink.cf/
 
 # API
 
